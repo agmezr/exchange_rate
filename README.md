@@ -23,3 +23,5 @@ source venv/bin/activate
 # with the env vars declared run the server
 BANXICO_TOKEN="<TOKEN>" FIXER_API_KEY="<API_KEY>" python server.py
 ```
+
+You can see an example [here](https://exchange-rate-mxn.herokuapp.com/api/exchange)
